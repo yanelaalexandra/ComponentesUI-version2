@@ -18,7 +18,7 @@ public class VideoViewActivity extends AppCompatActivity {
         videoView = (VideoView) findViewById(R.id.videoview);
         videoView.setMediaController(new MediaController(this));
 //        videoView.setVideoURI(Uri.parse("http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"));
-        videoView.setVideoURI(Uri.parse("android.resource://"+getPackageName()+"/"+R.raw.ThereForYou_MartinGarrixTroyeSivan));
+        videoView.setVideoURI(Uri.parse("android.resource://"+getPackageName()+"/"+R.raw.video));
         videoView.start();
     }
 }

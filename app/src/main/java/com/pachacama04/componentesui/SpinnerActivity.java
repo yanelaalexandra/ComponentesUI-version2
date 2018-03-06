@@ -7,7 +7,7 @@ import android.widget.AdapterView;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-public class SpinnerActivityActivity extends AppCompatActivity {
+public class SpinnerActivity extends AppCompatActivity {
 
     private Spinner spinner1;
 
