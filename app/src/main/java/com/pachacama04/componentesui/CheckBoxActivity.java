@@ -36,28 +36,28 @@ public class CheckBoxActivity extends AppCompatActivity {
                     Toast.makeText(this, checkBox.getText() + " selected!", Toast.LENGTH_LONG).show();
                 break;
             case R.id.checkBox2:
-                //DO something when user check the box
+                Toast.makeText(this,  "Second item select¡", Toast.LENGTH_LONG).show();
                 break;
             case R.id.checkBox3:
-                //DO something when user check the box
+                Toast.makeText(this,  "Other item select¡", Toast.LENGTH_LONG).show();
                 break;
             case R.id.checkBox4:
-                //DO something when user check the box
+                Toast.makeText(this,  "Other item select¡", Toast.LENGTH_LONG).show();
                 break;
             case R.id.checkBox5:
-                //DO something when user check the box
+                Toast.makeText(this,  "Other item select¡", Toast.LENGTH_LONG).show();
                 break;
             case R.id.checkBox6:
-                //DO something when user check the box
+                Toast.makeText(this,  "Other item select¡", Toast.LENGTH_LONG).show();
                 break;
             case R.id.checkBox7:
-                //DO something when user check the box
+                Toast.makeText(this,  "Other item select¡", Toast.LENGTH_LONG).show();
                 break;
             case R.id.checkBox8:
-                //DO something when user check the box
+                Toast.makeText(this,  "Other item select¡", Toast.LENGTH_LONG).show();
                 break;
             case R.id.checkBox9:
-                //DO something when user check the box
+                Toast.makeText(this,  "Other item select¡", Toast.LENGTH_LONG).show();
                 break;
         }
     }
